@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(page_title="Treino do Leo", page_icon="💪")
 
 # Título e Estilo
-st.title("🏋️‍♂️ Plano de Treino - Foco Cancún")
+st.title("🏋️‍♂️ Plano de Treino - Leonnardo")
 st.write("Descanso sugerido: **60–90 segundos**")
 
 # Estrutura dos Treinos
